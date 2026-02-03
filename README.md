@@ -9,16 +9,17 @@ Technical Skills
 
 Languages & Frameworks
 
-* JavaScript (React, Node.js)
-* Flutter / React Native *(edit if applicable)*
-* HTML, CSS, Tailwind
+* JavaScript/Typescript (React, Node.js,Nextjs)
+* Flutter / React Native 
+* HTML, CSS, Tailwind/Nativewind
+* python
 
 Backend & Tools
 
 * REST APIs
 * Authentication (JWT / Firebase)
 * Git & GitHub
-* Database design (SQL / NoSQL)
+* Database design (Mongodb/ Postgresql)
 
 Deployment
 
@@ -43,7 +44,9 @@ I’m especially interested in roles where I can grow, ship fast, and contribute
 ## 📫 Contact Me
 
 * 📧 Email: berekettekle57@gmail.com
-* 💼 LinkedIn: 
+* 💼 LinkedIn: www.linkedin.com/in/bereket-tekle
+
+
 
 
 ⭐ *If you find my work interesting, feel free to connect or reach out — I’m always open to new opportunities and collaborations.*
